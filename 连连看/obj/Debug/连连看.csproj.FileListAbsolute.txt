@@ -1,0 +1,24 @@
+c:\users\16145\documents\visual studio 2017\Projects\连连看\连连看\bin\Debug\连连看.exe.config
+c:\users\16145\documents\visual studio 2017\Projects\连连看\连连看\bin\Debug\连连看.exe
+c:\users\16145\documents\visual studio 2017\Projects\连连看\连连看\bin\Debug\连连看.pdb
+c:\users\16145\documents\visual studio 2017\Projects\连连看\连连看\obj\Debug\连连看.csprojResolveAssemblyReference.cache
+c:\users\16145\documents\visual studio 2017\Projects\连连看\连连看\obj\Debug\连连看.Form1.resources
+c:\users\16145\documents\visual studio 2017\Projects\连连看\连连看\obj\Debug\连连看.Properties.Resources.resources
+c:\users\16145\documents\visual studio 2017\Projects\连连看\连连看\obj\Debug\连连看.csproj.GenerateResource.Cache
+c:\users\16145\documents\visual studio 2017\Projects\连连看\连连看\obj\Debug\连连看.exe
+c:\users\16145\documents\visual studio 2017\Projects\连连看\连连看\obj\Debug\连连看.pdb
+E:\大四上\C#程序设计及其应用\03\连连看\连连看\bin\Debug\连连看.exe.config
+E:\大四上\C#程序设计及其应用\03\连连看\连连看\bin\Debug\连连看.exe
+E:\大四上\C#程序设计及其应用\03\连连看\连连看\bin\Debug\连连看.pdb
+E:\大四上\C#程序设计及其应用\03\连连看\连连看\obj\Debug\连连看.csprojAssemblyReference.cache
+E:\大四上\C#程序设计及其应用\03\连连看\连连看\obj\Debug\连连看.Properties.Resources.resources
+E:\大四上\C#程序设计及其应用\03\连连看\连连看\obj\Debug\连连看.csproj.GenerateResource.cache
+E:\大四上\C#程序设计及其应用\03\连连看\连连看\obj\Debug\连连看.csproj.CoreCompileInputs.cache
+E:\大四上\C#程序设计及其应用\03\连连看\连连看\obj\Debug\连连看.exe
+E:\大四上\C#程序设计及其应用\03\连连看\连连看\obj\Debug\连连看.pdb
+E:\大四上\C#程序设计及其应用\03\连连看\连连看\obj\Debug\连连看.Form1.resources
+E:\大四上\C#程序设计及其应用\03\连连看\连连看\bin\Debug\Microsoft.DirectX.DirectSound.dll
+E:\大四上\C#程序设计及其应用\03\连连看\连连看\bin\Debug\Microsoft.DirectX.dll
+E:\大四上\C#程序设计及其应用\03\连连看\连连看\bin\Debug\Microsoft.DirectX.xml
+E:\大四上\C#程序设计及其应用\03\连连看\连连看\bin\Debug\Microsoft.DirectX.DirectSound.xml
+E:\大四上\C#程序设计及其应用\03\连连看\连连看\obj\Debug\连连看.csproj.CopyComplete
